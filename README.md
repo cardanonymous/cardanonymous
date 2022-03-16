@@ -1,7 +1,7 @@
 Short overview
 =======
 
-We are cardanonymous. The aim of our projects is to create the possibility to anonymize yourself on the Cardano network. We will build a P2P mixer mixing nets (which are used in E-voting) and El Gamal encryption. The software stack will be build with Haskell and should run alongside a full node for complete anonymity (using a trusted vpn for the node is advisable).
+We are cardanonymous. The aim of our opensource projects is to create the possibility to anonymize yourself on the Cardano network. We will build a P2P mixer using mixing nets (which are used in E-voting) and El Gamal encryption. The software stack will be build with Haskell and should run alongside a full node for complete anonymity (using a trusted vpn for the node is advisable).
 
 E-voting
 ========
